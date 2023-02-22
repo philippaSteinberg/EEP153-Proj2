@@ -35,7 +35,7 @@ Datasets:
 - Final Presentation (00/00)
 
 ## Notes & Resources
-Course Syllabus: https://github.com/ligonteaching/EEP153_Materials/blob/master/README.md
-Brainstorm doc: https://docs.google.com/document/d/1lycVP_esgNxb8elC0FBewA0bjgTzs9eq_vjRg4K_kq8/edit
+- Course Syllabus: https://github.com/ligonteaching/EEP153_Materials/blob/master/README.md
+- Brainstorm doc: https://docs.google.com/document/d/1lycVP_esgNxb8elC0FBewA0bjgTzs9eq_vjRg4K_kq8/edit
 
 **Readings**
