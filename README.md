@@ -30,9 +30,9 @@ Datasets:
 - Max Mingxuan Xu: max_xu@berkeley.edu
 
 ### Due Dates
-- Code Draft (0/00)
-- Code Review (00/00)
-- Final Presentation (00/00)
+- Code Draft (03/03)
+- Code Review (03/06)
+- Final Presentation (03/08)
 
 ## Notes & Resources
 - Course Syllabus: https://github.com/ligonteaching/EEP153_Materials/blob/master/README.md
